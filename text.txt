@@ -1,1 +1,2 @@
 text file in master branch.
+Nothing new in master branch
